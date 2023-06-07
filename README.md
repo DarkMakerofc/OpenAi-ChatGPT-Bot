@@ -14,4 +14,10 @@
  [`Railway`](https://railway.app?referralCode=jDDNQq) <br>
  [`Replit`](replit.com)
  
+<br><br>
+[`CLICK TO GET API KEY`](https://platform.openai.com/docs/)
+<br><br>
+```
+IF you get api key put it .setapi < your api key>   |  ඔබ Api Key එක ලබාගත් පසු .setapi < ඔබගේ api key > ලෙස දමන්න.
+```
  # Bot is Not Public Yet !
