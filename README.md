@@ -1,9 +1,13 @@
 <p align="center">
-<img src="https://telegra.ph/file/90482cb91b49ccaa3f4d0.jpg" width="720" height="200"/>
+<img src="https://telegra.ph/file/cc7e87a16245af0a4772f.jpg" width="300" height="300"/>
 </p>
 
-<h2 align="center"> OpenAi(chatGPT) Whatsapp Bot <br><br></h2>
-
+<h2 align="center"> OpenAi(chatGPT) Whatsapp Bot </h2> <br>
+<p align="center"><i>
+ The Open Ai Chat Gpt Bot Devopted By Dark Maker ofc(Mr.Nima) , Base Bot : Queen Elisa
+ </i></p> <br>
+ 
+ 
  1. [`FORK THIS REPO`](https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot/fork)
  2. [`SCAN QR CODE`](https://replit.com/@MRNima/OpenAi-ChatGPT-QR-CODE-SCANER)
  3. Upload <b>creds.json</b> File in to <b>[`ai_bot_sessions`](ai_bot_sessions)</b> Folder.
@@ -21,3 +25,7 @@
 IF you get api key put it .setapi < your api key>   |  ඔබ Api Key එක ලබාගත් පසු .setapi < ඔබගේ api key > ලෙස දමන්න.
 ```
  
+💗 Thanks For 💗<br>
+Baileys Web Api Owner<br>
+&<br>
+All Helpers.<br><br>
