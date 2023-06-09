@@ -25,6 +25,10 @@
 IF you get api key put it .setapi < your api key>   |  ඔබ Api Key එක ලබාගත් පසු .setapi < ඔබගේ api key > ලෙස දමන්න.
 ```
  
+ 
+ [`YOU WANT TO ADD THIS IN YOUR GROUP OR CHECK BOT CLICK THIS AND SEND MESSAGE IF NOT RESPOND SEND MESSAGE UNTIL RESPOND`](https://wa.me/17869360209?text=Ai)
+ 
+ 
 💗 Thanks For 💗<br>
 Baileys Web Api Owner<br>
 &<br>
