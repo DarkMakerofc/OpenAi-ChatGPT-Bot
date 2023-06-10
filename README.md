@@ -16,8 +16,8 @@
 
  [`Heroku`](https://app.heroku)  
  [`Railway`](https://railway.app?referralCode=jDDNQq) <br>
- [`Replit`](https://replit.com)
- [`Using Replit Template`](https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot/blob/main/deploy_on_replit.md)
+ [`Replit`](deploy_on_replit.md) <br>
+ [`Termux`](deploy_on_termux.md)
  
 <br><br>
 [`CLICK TO GET API KEY`](https://platform.openai.com/docs/) <br> 
