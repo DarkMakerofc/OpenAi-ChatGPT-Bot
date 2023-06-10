@@ -19,7 +19,7 @@
   "author": "Mr-Nima",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/mr-nima-0/Baileys.git#d8093b2220008cdd69c868537cc4b04cc28b38d3",
+    "@adiwajshing/baileys": "npm:baileys-md@5.0.5",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
     "@types/node": "^18.0.6",
