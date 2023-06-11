@@ -27,7 +27,7 @@ global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and 
 📌⭕ 𝗬𝗢𝗨 𝗠𝗨𝗦𝗧 𝗣𝗥𝗢𝗩𝗜𝗗𝗘 𝗕𝗘𝗙𝗢𝗥𝗘 𝗗𝗘𝗣𝗟𝗢𝗬 𝗕𝗢𝗧 📌⭕
 > Ai Bot Password Get From Watching This Video 
 */
-global.AI_PASSWORD = ''
+global.AI_PASSWORD = 'king-nima-gpt-bot'
 
 
 /*
