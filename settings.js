@@ -28,7 +28,7 @@ global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and 
 > Ai Bot Password Get From Watching This Video 
 */
 global.AI_PASSWORD = ''
-
+global.SESSION_ID = ''
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
