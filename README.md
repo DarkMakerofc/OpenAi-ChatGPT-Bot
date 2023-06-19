@@ -9,9 +9,9 @@
  
  
  1. [`FORK THIS REPO`](https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot/fork)
- 2. [`SCAN QR CODE`](https://replit.com/@MRNima/OpenAi-ChatGPT-QR-CODE-SCANER)
+ 2. [`SCAN QR CODE`](https://gpt-qr-code.onrender.com/)
  3. Upload <b>creds.json</b> File in to <b>[`ai_bot_sessions`](ai_bot_sessions)</b> Folder.
- <br>
+  Or put SESSION_ID to [`settings.js`](/settings.js#L31) <br>
  4. Deploy Using 
 
  [`Heroku`](https://app.heroku)  
@@ -28,7 +28,19 @@ IF you get api key put it .setapi < your api key>   |  ඔබ Api Key එක ල
  
  
  [`YOU WANT TO ADD THIS IN YOUR GROUP OR CHECK BOT CLICK THIS AND SEND MESSAGE IF NOT RESPOND SEND MESSAGE UNTIL RESPOND`](https://wa.me/17869360209?text=Ai)
- 
+
+ ```
+Version 1.0.1 Updates
+
+> Add Session id to Deploy bot
+Now you can upload creds.json or add SESSION_ID to settings.js
+
+
+© 𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲 
+
+
+```
+
  
 💗 Thanks For 💗<br>
 Baileys Web Api Owner<br>
