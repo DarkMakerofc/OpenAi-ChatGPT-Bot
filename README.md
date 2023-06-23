@@ -27,7 +27,7 @@ IF you get api key put it .setapi < your api key>   |  ඔබ Api Key එක ල
 ```
  
  
- [`YOU WANT TO ADD THIS IN YOUR GROUP OR CHECK BOT CLICK THIS AND SEND MESSAGE IF NOT RESPOND SEND MESSAGE UNTIL RESPOND`](https://wa.me/17869360209?text=Ai)
+ [`EXAMPLE How To Put Api Key`](https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot/issues/2#issuecomment-1603656922)
 
  ```
 Version 1.0.1 Updates
