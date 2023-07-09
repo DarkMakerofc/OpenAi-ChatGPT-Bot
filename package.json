@@ -1,11 +1,11 @@
 {
   "name": "open-ai-chatGPT-bot",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Mr nima chat gpt bot allows you to use OpenAi(chatGPT) on Whatsapp.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node index.js"
+    "start": "node main.js"
   },
   "keywords": [
     "openai",
@@ -19,28 +19,11 @@
   "author": "Mr-Nima",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "npm:mrnima-baileys@6.0.2",
+    "@adiwajshing/baileys": "npm:mrnima-baileys@6.0.3",
     "@adiwajshing/keyed-db": "^0.2.4",
-    "@hapi/boom": "^10.0.1",
-    "@types/node": "^18.0.6",
-    "awesome-phonenumber": "^5.8.0",
-    "axios": "^1.4.0",
-    "chalk": "^4.1.2",
-    "dotenv": "^16.1.4",
-    "express": "^4.18.2",
-    "human-readable": "^0.2.1",
-    "jimp": "^0.16.13",
-    "lodash": "^4.17.21",
-    "moment-timezone": "^0.5.43",
-    "node-fetch": "^3.2.6",
-    "megajs": "^1.1.0",
+    "mrnima-openai-chatgpt-bot": "^0.0.8",
     "openai": "^3.1.0",
-    "pg" : "^8.11.0",
-    "pino": "^8.14.1",
-    "qrcode-terminal": "^0.12.0",
-    "sequelize": "^6.32.0",
-    "sqlite3": "^5.1.6",
-    "yargs": "^17.2.1"
+    "qrcode-terminal": "^0.12.0"
   },
   "directories": {
     "lib": "lib",
