@@ -1,7 +1,7 @@
 entrypoint = "main.js"
 
 hidden = [".config", "package-lock.json"]
-run = "pm2 kill && pm2 start main.js && pm2 logs"
+run = "pm2 kill && pm2 start main.js && pm2 logs && pm2 --deep-monitoring"
 
 [[hints]]
 regex = "Error \\[ERR_REQUIRE_ESM\\]"
