@@ -30,10 +30,20 @@ IF you get api key put it .setapi < your api key>   |  ඔබ Api Key එක ල
  [`EXAMPLE How To Put Api Key`](https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot/issues/2#issuecomment-1603656922)
 
  ```
-Version 1.0.1 Updates
+Version 2.0.0 Updates
 
-> Add Session id to Deploy bot
-Now you can upload creds.json or add SESSION_ID to settings.js
+> Update Menu 
+> Add New Ai iamge generarter DALL-E
+> Add Restart Command 
+> Add ping Command
+
+🥵 Special
+If you use the bot personally (global.BOT_PRIVATE = true) (.ai) it is not mandatory to put api key for Commnad!
+
+
+but others require apikey ( dall-e )
+if you use on public mod you must put api key
+
 
 
 © 𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲 
