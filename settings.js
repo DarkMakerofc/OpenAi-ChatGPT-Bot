@@ -21,7 +21,7 @@ global.OWNER_NUMBER = ['94715166712'] //Owner Number
 global.BOT_ADMINS = ['94715166712','94715166712'] //Bot admins numbers Like a Sudo Numbers
 global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and put Jids
 global.IMAGE_QUALITY = 'low' // Available Quality Are => low | mediam | high
-global.CAPTION = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴅᴀʀᴋ-ᴍᴀᴋᴇʀ-ᴏꜰᴄ ᴀɪ ʙᴏᴛ'
+global.CAPTION = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙾𝙿𝙴𝙽-𝙰𝙸(𝙲𝙷𝙰𝚃𝙶𝙿𝚃) 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃*'
 
 /*
 📌⭕ 𝗬𝗢𝗨 𝗠𝗨𝗦𝗧 𝗣𝗥𝗢𝗩𝗜𝗗𝗘 𝗕𝗘𝗙𝗢𝗥𝗘 𝗗𝗘𝗣𝗟𝗢𝗬 𝗕𝗢𝗧 📌⭕
@@ -33,9 +33,9 @@ global.SESSION_ID = ''
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
 */
-global.CMD1 = '' // .ai Command
-global.CMD2 = '' // .ai2 Command
-global.IMAGE_CMD = '' // .aiimg Command 
+global.CMD1 = 'ai' // .ai Command
+global.CMD2 = 'ai2' // .ai2 Command
+global.IMAGE_CMD = 'aiimg' // .aiimg Command 
 global.PORT = process.env.PORT || '5000' // Port No need Change.
 
 mess = {
