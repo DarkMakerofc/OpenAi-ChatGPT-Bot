@@ -7,15 +7,18 @@
  The Open Ai Chat Gpt Bot Devopted By Dark Maker ofc(Mr.Nima) , Base Bot : Queen Elisa
  </i></p> <br>
  
+ * 👨‍🔧 INSTALL BOT STEPS.
+ 1. [`FORK THIS REPO`](https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot/fork)  <i> : Fork this For change your settings ( If You Deploy Using Replit No Must Frok You Can Import Using This Repository Link.)</i>
  
- 1. [`FORK THIS REPO`](https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot/fork)
- 2. [`SCAN QR CODE`](https://gpt-qr-code.onrender.com/)
+ 2. [`SCAN QR CODE`](https://gpt-qr-code.onrender.com/)  <i> : Scan Showing Qr Code Using Your Whatsapp ( Click Upper Right side three dots > Click Linked Devices > Scan Qr Code )</i>
+ 
  3. Upload <b>creds.json</b> File in to <b>[`ai_bot_sessions`](ai_bot_sessions)</b> Folder.
-  Or put SESSION_ID to [`settings.js`](/settings.js#L31) <br>
+  Or put SESSION_ID to [`settings.js`](/settings.js#L31) <i> : Uploade or Put Session id ( After You Scan You Will be send ```creds.json``` file and ```Session id``` You Can Use Any One From it.)</i> <br> 
  4. Deploy Using 
 
- [`Heroku`](https://app.heroku)  
- [`Railway`](https://railway.app?referralCode=jDDNQq) <br>
+ [`Heroku`](https://app.heroku)  <i> : If You Use To Deploy Bot this ( create New App and Connect To Your Forked Repository and Deploy Branch ) </i>
+ 
+ [`Railway`](https://railway.app?referralCode=jDDNQq) <i> : If You Deploy on Railway Connect You Railway account to Your github repo after deploy. </i><br>
  [`Replit`](deploy_on_replit.md) <br>
  [`Termux`](deploy_on_termux.md)
  
@@ -27,9 +30,9 @@ IF you get api key put it .setapi < your api key>   |  ඔබ Api Key එක ල
 ```
  
  
- [`EXAMPLE How To Put Api Key`](https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot/issues/2#issuecomment-1603656922)
+ [`EXAMPLE How To Put Api Key`](https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot/issues/2#issuecomment-1603656922) <i> : Click This if You Don't Know How to put your chatgot api key.</i>
 
- [`SCREEN SHOT BOT-CHAT`](https://telegra.ph/file/e67c72bd83f2132dc1803.jpg)
+ [`SCREEN SHOT BOT-CHAT`](https://telegra.ph/file/e67c72bd83f2132dc1803.jpg) <i> : Click This If You Want see Example Chat.</i>
 
  ```
 Version 2.0.0 Updates
