@@ -29,6 +29,8 @@ IF you get api key put it .setapi < your api key>   |  ඔබ Api Key එක ල
  
  [`EXAMPLE How To Put Api Key`](https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot/issues/2#issuecomment-1603656922)
 
+ [`SCREEN SHOT BOT-CHAT`](https://telegra.ph/file/e67c72bd83f2132dc1803.jpg)
+
  ```
 Version 2.0.0 Updates
 
