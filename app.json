@@ -1,0 +1,34 @@
+{
+    "name": "Whatsapp Ai Bot",
+    "description": "This is an Open Ai Chat Gpt whatsapp bot created by mr nima.",
+    "repository": "https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot",
+    "logo": "https://telegra.ph/file/7e4a883eab0f96664798e.jpg",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp Ai Bot"
+    ],
+    "env": {
+        "SESSION_ID": {
+            "description": "Type the Session-ID you got from scaning QR [ https://gpt-qr-code.onrender.com ]",
+            "required": true,
+            "value": ""
+        },
+        "BOT_PRIVATE": {
+            "description": "Type if you want private true else you want public false",
+            "required": true,
+            "value": "true"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "standard-1x"
+        }
+    }
+}
