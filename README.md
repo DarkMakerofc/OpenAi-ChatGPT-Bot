@@ -16,7 +16,7 @@
   Or put SESSION_ID to [`settings.js`](/settings.js#L31) <i> : Uploade or Put Session id ( After You Scan You Will be send ```creds.json``` file and ```Session id``` You Can Use Any One From it.)</i> <br> 
  4. Deploy Using 
 
- [`Heroku`](https://app.heroku)  <i> : If You Use To Deploy Bot this ( create New App and Connect To Your Forked Repository and Deploy Branch ) </i>
+ [`Heroku`](deploy_on_heroku.md)  <i> : Click This For more Info </i>
  
  [`Railway`](https://railway.app?referralCode=jDDNQq) <i> : If You Deploy on Railway Connect You Railway account to Your github repo after deploy. </i><br>
  [`Replit`](deploy_on_replit.md) <br>
