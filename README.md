@@ -16,11 +16,11 @@
   Or put SESSION_ID to [`settings.js`](/settings.js#L31) <i> : Uploade or Put Session id ( After You Scan You Will be send ```creds.json``` file and ```Session id``` You Can Use Any One From it.)</i> <br> 
  4. Deploy Using 
 
- [`Heroku`](deploy_on_heroku.md)  <i> : Click This For more Info </i>
+ [`Heroku`](md/deploy_on_heroku.md)  <i> : Click This For more Info </i>
  
  [`Railway`](https://railway.app?referralCode=jDDNQq) <i> : If You Deploy on Railway Connect You Railway account to Your github repo after deploy. </i><br>
- [`Replit`](deploy_on_replit.md) <br>
- [`Termux`](deploy_on_termux.md)
+ [`Replit`](md/deploy_on_replit.md) <br>
+ [`Termux`](md/deploy_on_termux.md)
  
 <br><br>
 [`CLICK TO GET API KEY`](https://platform.openai.com/docs/) <br> 
