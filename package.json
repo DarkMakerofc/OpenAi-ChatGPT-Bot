@@ -1,7 +1,7 @@
 {
-  "name": "open-ai-chatGPT-bot",
+  "name":BABU-BALOCH"open-ai-chatGPT-bot",
   "version": "2.0.0",
-  "description": "Mr nima chat gpt bot allows you to use OpenAi(chatGPT) on Whatsapp.",
+  "description": "BABU BALOCH chat gpt bot allows you to use OpenAi(chatGPT) on Whatsapp.",
   "main": "main.js",
   "type": "commonjs",
   "scripts": {
@@ -16,7 +16,7 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "author": "Mr-Nima",
+  "author": "Babu-Baloch",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:mrnima-baileys@6.0.3",
